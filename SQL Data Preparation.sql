@@ -1,3 +1,4 @@
+-- create table
 CREATE TABLE trashbag (
     Location TEXT,
     SKU TEXT,
@@ -11,8 +12,9 @@ CREATE TABLE trashbag (
     Average_Selling_Price NUMERIC
 );
 
-select * from trashbag;
 
+
+-- chenge data type
 ALTER TABLE trashbag
 ADD COLUMN year INTEGER;
 
@@ -28,17 +30,21 @@ SET month = CAST(SUBSTRING(weekid::TEXT FROM 5 FOR 6) AS INTEGER);
 ALTER TABLE trashbag
 ADD COLUMN size TEXT;
 
+
+
+-- delete unnecessary cell
 DELETE FROM trashbag
 WHERE Gallon_Size = '#N/A';
 
 ALTER TABLE trashbag
 ALTER COLUMN Gallon_Size TYPE NUMERIC USING Gallon_Size::NUMERIC;
 
--- 1. size カラムを追加
 ALTER TABLE trashbag
 ADD COLUMN size TEXT;
 
--- 2. Gallon_Size に基づいて size カラムを更新
+
+
+-- Add size column for easy categorizing sizes
 UPDATE trashbag
 SET size = CASE
     WHEN Gallon_Size <= 4 THEN 'Small'
@@ -48,5 +54,8 @@ SET size = CASE
     ELSE 'Extra Large'
 END;
 
+
+
+-- delete unnecessary cell
 DELETE FROM trashbag
 WHERE Gallon_Size = 0;
