@@ -1,7 +1,7 @@
 # Amazon Trash Bag Sales Analysis (2016-2017)
-Analyzing trash bag sales trends on Amazon US from 2016-2017. Interactive Tableau dashboard can be found here.  
-![Tableau Dashboard Screenshot](./Tableau Dashboard Screenshot.png)
-
+Analyzing trash bag sales trends on Amazon US from 2016-2017. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/naoki.kojima/viz/AmazonTrashBag/Overview?publish=yes).  
+  
+![Tableau Dashboard Screenshot](./Tableau%20Dashboard%20Screenshot.png)
 
 # Project Background
 As an example of e-commerce data analysis, this project thoroughly analyses the sales data in the **trash bag category on Amazon US** to uncover critical insights that will help both clients doing a business in this category and thinking of starting a business in this category.
@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas.
 - Possible product categories for newcomers to enter the market.
 - Competitors analysis in product and price levels.
 
-An interactive Tableau dashboard can be downloaded here.  
+An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/app/profile/naoki.kojima/viz/AmazonTrashBag/Overview?publish=yes).  
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
 
 # North Star Metrics and Dimensions
@@ -22,8 +22,10 @@ Size: Small, Medium, Tall Kitchen, Large, Extra Large
 Brand: Happy, Simple, Thrifty, Others(202 brands included)  
 
 # Data Structure
-The database structure as seen below consists of two tables; Sales and Date with a total row count of 82,444.
+The database structure as seen below consists of two tables; Sales and Date with a total row count of 82,444.  
 
+![Entity Relational Diagram(ERD) screenshot](./Entity Relational Diagram(ERD) screenshot.png)  
+  
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset.
 
 # Executive Summary
