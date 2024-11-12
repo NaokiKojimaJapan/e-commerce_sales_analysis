@@ -24,7 +24,7 @@ Brand: Happy, Simple, Thrifty, Others(202 brands included)
 # Data Structure
 The database structure as seen below consists of two tables; Sales and Date with a total row count of 82,444.  
 
-![Entity Relational Diagram(ERD) screenshot](./Entity Relational Diagram(ERD) screenshot.png)  
+<img src="./Entity%20Relational%20Diagram%20screenshot.png" alt="Entity Relational Diagram screenshot" width="50%">
   
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset.
 
