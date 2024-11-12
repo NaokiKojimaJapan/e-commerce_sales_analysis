@@ -47,7 +47,10 @@ Below is the overview page from Tableau dashboard and more examples are included
   1. 83% of the share in the size is occupied by Simple, whose unit price is generally twice as high as the other brands.
   2. The unit price in medium size is higher than in larger sizes; Tall Kitchen and Large.
 
-<img src="./Medium%20Size%20Analysis.png" alt="Medium Size Analysis" width="75%">
+<img src="./Medium%20Size%20Analysis.png" alt="Medium Size Analysis" width="75%">  
+  
+Interactive Tableau dashboard for medium size analysis can be found [here](https://public.tableau.com/app/profile/naoki.kojima/viz/AmazonTrashBag/MediumSizeAnalysis?publish=yes).  
+  
 
 **Brands**
 - 78% of the share is taken by the big three brands, Happy, Simple, and Thrifty, while the other 202 brands share the remaining 22% of the share. 
@@ -55,11 +58,8 @@ Below is the overview page from Tableau dashboard and more examples are included
 - Simple has the highest sales per SKU mainly because unit price of Simple is much higher than the others. It’s unsure if it stems from quality of products or amount per unit, so further research needed.
 
 # Recommendations & Next Steps
-**Overall**
-- Make all products available for purchase from mobile devices because it’s twice as less competitive as web and has a higher YoY growth rate.  
+- **Overall:** **Make all products available for purchase from mobile devices** because it’s twice as less competitive as web and has a higher YoY growth rate.  
 
-**For Newcomer**
-- Medium size by low unit price is the easiest area to get into the market and make revenue because medium size is the least competitive category and the category is dominant by higher unit price products than larger sizes.  
+- **For Newcomer:** **Medium size by low unit price is the potential area to get into the market and make revenue** because medium size is the least competitive category and the category is dominant by higher unit price products than larger sizes.  
 
-**Further Research and Discussion**
-- Research products by Simple to identify if their high unit price stems from quality or quantity. If it’s coming from quality, all medium-size products on sale are high-quality, so there should be an opportunity to acquire potential demands from customers for low-cost products.
+- **Further Research and Discussion:** Research products by Simple to **identify if their high unit price stems from quality or quantity**. If it’s coming from quality, all medium-size products on sale are high-quality, so there should be an opportunity to acquire potential demands from customers for low-cost products.
