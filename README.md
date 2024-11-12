@@ -24,7 +24,7 @@ Brand: Happy, Simple, Thrifty, Others(202 brands included)
 # Data Structure
 The database structure as seen below consists of two tables; Sales and Date with a total row count of 82,444.  
 
-<img src="./Entity%20Relational%20Diagram%20screenshot.png" alt="Entity Relational Diagram screenshot" width="50%">
+<img src="./Entity%20Relational%20Diagram%20screenshot.png" alt="Entity Relational Diagram screenshot" width="40%">
   
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset.
 
@@ -42,8 +42,8 @@ Below is the overview page from Tableau dashboard and more examples are included
 **Size**
 - Medium size can be a less competitive category because sales per SKU is the highest in medium size, while Tall Kitchen size is dominant at 62% of the share and the share ratio between each size has not changed.
 - Furthermore, low-cost products have more chance to take over the medium size market because 
-1. 83% of the share in the size is occupied by Simple, whose unit price is generally twice as high as the other brands.
-2. The unit price in medium size is higher than in larger sizes, Tall Kitchen and Large.
+  1. 83% of the share in the size is occupied by Simple, whose unit price is generally twice as high as the other brands.
+  2. The unit price in medium size is higher than in larger sizes, Tall Kitchen and Large.
 
 **Brands**
 - 78% of the share is taken by the big three brands, Happy, Simple, and Thrifty, while the other 202 brands share the remaining 22% of the share. 
