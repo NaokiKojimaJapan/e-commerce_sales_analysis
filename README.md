@@ -1,4 +1,5 @@
-# Amazon Trash Bag Sales Analysis (2016-2017)
+# Amazon Trash Bag Sales Analysis (2016-2017): Medium-Sized, Low-Cost Products: The Untapped Blue Ocean Opportunity
+
 Analyzing trash bag sales trends on Amazon US from 2016-2017. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/naoki.kojima/viz/AmazonTrashBag/Overview?publish=yes).  
   
 ![Tableau Dashboard Screenshot](./Tableau%20Dashboard%20Screenshot.png)
