@@ -14,7 +14,6 @@ Insights and recommendations are provided on the following key areas.
 - Competitors analysis in product and price levels.
 
 An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/app/profile/naoki.kojima/viz/AmazonTrashBag/Overview?publish=yes).  
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/NaokiKojimaJapan/e-commerce_sales_analysis/blob/main/SQL%20Data%20Preparation.sql).
 
 # North Star Metrics and Dimensions
 Sales: Total sales in the Trash Bag category on Amazon US from Jan 2016 to Oct 2017.  
@@ -27,7 +26,8 @@ The database structure as seen below consists of two tables; Sales and Date with
 
 <img src="./Entity%20Relational%20Diagram%20screenshot.png" alt="Entity Relational Diagram screenshot" width="40%">
   
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset.
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset.  
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/NaokiKojimaJapan/e-commerce_sales_analysis/blob/main/SQL%20Data%20Preparation.sql).
 
 # Executive Summary
 Since early 2016, sales have shown continuous growth, averaging a 151% year-over-year increase. Seasonal events like Amazon Prime Day and Black Friday drive significant annual sales spikes. Currently, 90% of total sales occur through Web channels, with 60% of products sold being in the Tall Kitchen size. The market is largely controlled by the three major brands, which together hold 80% of the market share, each targeting specific product sizes to differentiate their offerings.
