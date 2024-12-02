@@ -36,15 +36,17 @@ Since early 2016, sales have shown continuous growth, averaging a 151% year-over
 
 # Summary of Insights
 ## 1. Web vs Mobile: Maximizing Mobile Sales Potential through Expanded Product Availability
-- Mobile is less competitive than web according to the higher sales per SKU in mobile, which means fewer competitors per market size, while Web sales occupies 90% of the share. It’s mainly because fewer titles are available on mobile.
-- Mobile sales should have more sales potential if all products are also available on mobile. At the moment, only 54 titles are available on mobile, which is quite fewer compared to 1,312 titles on the web. Especially in the top 10 titles, only 5 titles are available on mobile.
+- **Mobile is less competitive than web** according to the higher sales per SKU in mobile, which means fewer competitors per market size, while Web sales occupies 90% of the share. It’s mainly because fewer titles are available on mobile.
+- **Mobile sales should have more sales potential** if all products are also available on mobile. At the moment, only 54 titles are available on mobile, which is quite fewer compared to 1,312 titles on the web. Especially in the top 10 titles, only 5 titles are available on mobile.
+
+**Top 10 brands sales in both Mobile and Web**  
 <img src="./Top%2010%20Titles.png" alt="Top 10 Titles" width="50%">
   
 - On the other hand, mobile has a higher year-over-year growth rate of 213% than web at 145%, showing mobile has future potential for sales growth.
 
 ## 2. Size: The Untapped Blue Ocean: Medium-Sized, Low-Cost Products
-- Medium size can be a less competitive category because sales per SKU is the highest in medium size, while Tall Kitchen size is dominant at 62% of the share and the share ratio between each size has not changed.
-- Furthermore, low-cost products have more chance to take over the medium size market because 
+- **Medium size can be a less competitive category** because sales per SKU is the highest in medium size, while Tall Kitchen size is dominant at 62% of the share and the share ratio between each size has not changed.
+- Furthermore, **low-cost products have more chance to take over the medium size market** because 
   1. 83% of the share in the size is occupied by Simple, whose unit price is generally twice as high as the other brands.
   2. The unit price in medium size is higher than in larger sizes; Tall Kitchen and Large.
 
@@ -54,13 +56,13 @@ Interactive Tableau dashboard for medium size analysis can be found [here](https
   
 
 ## 3. Brands: Top 3 Brands: Differentiation Through Product Size
-- 78% of the share is taken by the big three brands, Happy, Simple, and Thrifty, while the other 202 brands share the remaining 22% of the share. 
-- The big three brands differentiate each other by size as Happy ranks #1 in Tall Kitchen size, Simple #1 in Small & Medium sizes, and Thrifty #1 in Large and Extra Large sizes.
-- Simple has the highest sales per SKU mainly because the unit price of Simple is much higher than the others. It’s unsure if it stems from the quality of products or the amount per unit, so further research is needed.
+- **78% of the share is taken by the big three brands**, Happy, Simple, and Thrifty, while the other 202 brands share the remaining 22% of the share. 
+- **The big three brands differentiate each other by size** as Happy ranks #1 in Tall Kitchen size, Simple #1 in Small & Medium sizes, and Thrifty #1 in Large and Extra Large sizes.
+- Simple has the highest sales per SKU mainly because the unit price of Simple is much higher than the others. It’s unsure if it stems from the quality of products or the amount per unit, so **further research is needed**.
 
 # Recommendations & Next Steps
 - **Overall:** **Make all products available for purchase from mobile devices** because it’s twice as less competitive as web and has a higher YoY growth rate.  
 
 - **For Newcomer:** **Medium size by low unit price is the potential area to get into the market and make revenue** because medium size is the least competitive category and the category is dominated by higher unit price products than larger sizes.  
 
-- **Further Research and Discussion:** Research products by Simple to **identify if their high unit price stems from quality or quantity**. If it’s coming from quality, all medium-size products on sale are high-quality, so there should be an opportunity to acquire potential demands from customers for low-cost products.
+- **Further Research and Discussion: **Research products by Simple to identify if their high unit price stems from quality or quantity**. If it’s coming from quality, all medium-size products on sale are high-quality, so there should be an opportunity to acquire potential demands from customers for low-cost products.
